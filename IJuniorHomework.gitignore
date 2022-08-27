@@ -1,0 +1,21 @@
+using System;
+
+namespace MyFirstApp // task  1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int health = 100;
+            uint growth = 180;
+            string userName = "oleg";
+            bool isGoing = true;
+            float distance = 24.5f;
+            long time = 60;
+            ulong hitPoint = 20;
+            double theWeight = 189.3;
+            short money = 7893;
+            byte deaths = 3;
+        }
+    }
+}
